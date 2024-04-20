@@ -1,0 +1,14 @@
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\bin\Debug\net8.0\RecipesApplication.exe
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\bin\Debug\net8.0\RecipesApplication.deps.json
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\bin\Debug\net8.0\RecipesApplication.runtimeconfig.json
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\bin\Debug\net8.0\RecipesApplication.dll
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\bin\Debug\net8.0\RecipesApplication.pdb
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\obj\Debug\net8.0\RecipesApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\obj\Debug\net8.0\RecipesApplication.AssemblyInfoInputs.cache
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\obj\Debug\net8.0\RecipesApplication.AssemblyInfo.cs
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\obj\Debug\net8.0\RecipesApplication.csproj.CoreCompileInputs.cache
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\obj\Debug\net8.0\RecipesApplication.dll
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\obj\Debug\net8.0\refint\RecipesApplication.dll
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\obj\Debug\net8.0\RecipesApplication.pdb
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\obj\Debug\net8.0\RecipesApplication.genruntimeconfig.cache
+C:\Users\DylandaCosta\source\repos\RecipesApplication\RecipesApplication\obj\Debug\net8.0\ref\RecipesApplication.dll
